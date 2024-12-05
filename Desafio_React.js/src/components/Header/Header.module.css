@@ -1,0 +1,37 @@
+.header{
+    display: flex;
+    justify-content: space-between; 
+    margin-bottom: 0px;
+    background-color: #979797;
+    position: initial;
+    width: 100%;
+    padding: 10px;
+}
+
+.header_title{
+    padding: 5px 0;
+}
+
+.header_titleH1{
+    margin: 0;
+    padding: 0;
+}
+
+.nave{
+    display: flex;
+    flex-direction: row;
+    text-decoration: none;
+}
+
+.item{
+    padding: 20px 0 20px 20px;
+    list-style: none;
+}
+
+.item_link{
+    text-decoration: none;
+    color: #fff;
+}
+
+
+
